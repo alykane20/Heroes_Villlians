@@ -72,7 +72,6 @@ WSGI_APPLICATION = 'heroes_villains_project.wsgi.application'
 
 
 
-
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
 
